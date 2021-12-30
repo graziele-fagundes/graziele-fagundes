@@ -1,6 +1,6 @@
 hi! my name is Graziele, but you can call me enjoy 🤠
 
-I'm a full stack software developer currently working with delphi (pascal).
+I'm a full stack software developer currently working with laravel, vue.js and delphi.
 
 find me: grazifagundesm@gmail.com
 
