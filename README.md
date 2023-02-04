@@ -1,10 +1,6 @@
 hi! my name is Graziele, but you can call me enjoy 🤠
 
-I'm a full stack software developer currently working with laravel, vue.js and delphi.
-
-find me: grazifagundesm@gmail.com
-
-🌈 passionate about turning ideas into code 🌈
+passionate about turning ideas into code
 
 <!---
 enj0yy/enj0yy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
