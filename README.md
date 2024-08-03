@@ -1,5 +1,7 @@
 do {
+
   beBetter();
+  
 } while(true);
 
 <!---
