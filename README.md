@@ -1,3 +1,5 @@
+hi, my name is Graziele and I am a Computer Science student 🫰
+
 simplicity is the soul of efficiency
 
 <a href="https://github.com/graziele-fagundes?tab=repositories" title="Repositories">
