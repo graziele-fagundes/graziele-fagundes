@@ -1,4 +1,4 @@
-hi, my name is Graziele and I am a Computer Science student 🫰
+hi, my name is Graziele and I am a computer science student and developer
 
 simplicity is the soul of efficiency
 
