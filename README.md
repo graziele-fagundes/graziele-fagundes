@@ -1,8 +1,12 @@
 <h2 align="center">Hi :)</h2>
 
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=graziele-fagundes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
